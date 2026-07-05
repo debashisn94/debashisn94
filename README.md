@@ -6,7 +6,7 @@
   AI products solo on the side. I code alongside engineering, so I ship what I spec.
 
   **🛠 Building right now**
-  - [Holt](https://github.com/holt-os/holt) - open-source local-first personal AI OS. Semantic memory, skills, knowledge graph, MCP server, scheduling - wrapped around any Claude Code / CLI brain
+  - [Holt](https://github.com/holt-os/holt) - open-source local-first personal AI OS. Semantic memory, skills, knowledge graph, MCP server, scheduling - wrapped around any CLI brain (Claude, OpenAI, Gemini, etc.)
   - [Astrika](https://astrika.in) - AI-native Vedic astrology SaaS (prompts, infra, UX, solo)
   - [Jobtune](https://jobtune.io) - AI resume tailoring + job-match agent
   - [Products Decoded](https://productsdecoded.com) - how AI products actually get built (newsletter + YouTube)
