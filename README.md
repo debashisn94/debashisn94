@@ -6,13 +6,15 @@
   AI products solo on the side. I code alongside engineering, so I ship what I spec.
 
   **🛠 Building right now**
+  - [Holt](https://github.com/holt-os/holt) - open-source local-first personal AI OS. Semantic memory, skills, knowledge graph, MCP server, scheduling - wrapped around any Claude Code / CLI brain
   - [Astrika](https://astrika.in) - AI-native Vedic astrology SaaS (prompts, infra, UX, solo)
   - [Jobtune](https://jobtune.io) - AI resume tailoring + job-match agent
-  - [Products Decoded](https://productsdecoded.com) — how AI products actually get built (newsletter + YouTube)
+  - [Products Decoded](https://productsdecoded.com) - how AI products actually get built (newsletter + YouTube)
 
-  **🟢 Open-sourcing in public**
-  - `aios` — my personal AI OS: vector memory, hooks, multi-agent orchestration over Claude Code. Publishing the scrubbed version this week.
-  - `local-rag-companion` — local RAG stack for companies that can't send data to frontier APIs. Built on the architecture I shipped at MoneyLion. v0.1 in progress.
+  **🟢 Shipped in the open**
+  - [`holt`](https://github.com/holt-os/holt) - my personal AI OS, open-sourced. Per-folder semantic memory + distilled facts, skills, `holt graph` knowledge graph, MCP server, scheduling, Telegram + notifications, context-kept brain switching (CLI or API).
+    `brew install holt-os/tap/holt` or `npm i -g @holt-os/holt` · [docs](https://productsdecoded.com/holt)
+  - `local-rag-companion` - local RAG stack for companies that can't send data to frontier APIs. Built on the architecture I shipped at MoneyLion. v0.1 in progress.
 
   **📍** India → Amsterdam (relocating, EU HSM-eligible)
   **✉️** debashis.deb94@gmail.com
