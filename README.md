@@ -27,7 +27,7 @@ Most of my work is hands-on: agents that hold memory across sessions, retrieval 
 
 **Building now**
 
-- [`local-rag-companion`](https://github.com/debashisn94/local-rag-companion) - self-hostable RAG for companies that can't send data to a third-party API. OpenAI-compatible wire format, so existing tooling works by swapping the base URL. Early: scaffolding and interfaces are in, retrieval is not.
+- [`local-rag-companion`](https://github.com/debashisn94/local-rag-companion) - self-hostable RAG for companies that can't send data to a third-party API. OpenAI-compatible wire format, so existing tooling works by swapping the base URL. v0.1 code-complete: gateway, pgvector and Qdrant stores, tenant isolation, a hash-chained audit log, 432 tests. Docker, CI and the Ollama path are not yet verified against real infrastructure, [current status here](https://github.com/debashisn94/local-rag-companion/blob/main/docs/roadmap.md).
 
 **About me**
 
