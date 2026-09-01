@@ -8,7 +8,7 @@
   **🛠 Building right now**
   - [Holt](https://github.com/holt-os/holt) - open-source local-first personal AI OS. Semantic memory, skills, knowledge graph, MCP server, scheduling - wrapped around any CLI brain (Claude, OpenAI, Gemini, etc.)
   - [Astrika](https://astrika.in) - AI-native Vedic astrology SaaS (prompts, infra, UX, solo)
-  - [Jobtune](https://jobtune.io) - AI resume tailoring + job-match agent
+  - [Jobtune](https://www.jobtune.in) - AI resume tailoring + job-match agent
   - [Products Decoded](https://productsdecoded.com) - how AI products actually get built (newsletter + YouTube)
 
   **🟢 Shipped in the open**
