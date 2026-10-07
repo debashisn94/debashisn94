@@ -20,14 +20,17 @@ Most of my work is hands-on: agents that hold memory across sessions, retrieval 
 
 - [`holt`](https://github.com/holt-os/holt) - open-source personal AI OS. Per-folder semantic memory and distilled facts, skills, `holt graph` knowledge graph, MCP server, scheduling, Telegram and notifications, and context-kept brain switching between CLI and API.
   `brew install holt-os/tap/holt` or `npm i -g @holt-os/holt` · [docs](https://productsdecoded.com/holt)
+  Memory scores published with every answer and grade: LongMemEval 91.2%, LoCoMo 88.2%, BEAM-1M 79.6% ([holt-benchmarks](https://github.com/holt-os/holt-benchmarks)).
 - [Astrika](https://astrika.in) - AI-native Vedic astrology SaaS. Prompts, infra and UX, built solo. Live.
 - [Jobtune](https://www.jobtune.in) - AI resume tailoring and job-match agent for product roles. Live.
 - [`claude-skills-pm`](https://github.com/debashisn94/claude-skills-pm) - seven Claude Code skills I use daily for PM work, de-identified and open-sourced.
+- [`local-rag-companion`](https://github.com/debashisn94/local-rag-companion) - self-hostable RAG for companies that can't send data to a third-party API. OpenAI-compatible, so existing tooling works by swapping the base URL. v0.1 code-complete, 452 tests, [status](https://github.com/debashisn94/local-rag-companion/blob/main/docs/roadmap.md).
+- [`inkwell`](https://github.com/debashisn94/inkwell) - a product URL in, ad videos in every aspect ratio out. Pulls real imagery and brand colours from the product's own site, renders with Remotion.
 - [Products Decoded](https://productsdecoded.com) - how AI products actually get built. Newsletter and YouTube.
 
 **Building now**
 
-- [`local-rag-companion`](https://github.com/debashisn94/local-rag-companion) - self-hostable RAG for companies that can't send data to a third-party API. OpenAI-compatible wire format, so existing tooling works by swapping the base URL. v0.1: gateway, pgvector and Qdrant stores, tenant isolation, a hash-chained audit log, per-key rate limiting, 452 tests. The Ollama path is verified end to end against a real server, and CI runs the suite on three Python versions plus a live Postgres and Qdrant on every push. The full Docker stack has not been brought up, [current status here](https://github.com/debashisn94/local-rag-companion/blob/main/docs/roadmap.md).
+- [Holt Teams](https://productsdecoded.com/holt/teams) - governed, self-hosted shared memory for teams of AI agents. Looking for design partners.
 
 **About me**
 
@@ -35,6 +38,7 @@ Most of my work is hands-on: agents that hold memory across sessions, retrieval 
 
 **Working with me**
 
+Running AI agents across a team and need memory you can audit? I'm taking Holt Teams design partners.
 Hiring an AI PM in the EU? I'm in India, relocating to the Netherlands, HSM-eligible.
 Training an engineering team on agent workflows? I run hands-on programmes for teams and universities.
 
