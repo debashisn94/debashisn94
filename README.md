@@ -4,7 +4,7 @@
 
 I build AI products and write the code alongside engineering, so what I spec is what ships.
 
-Most of my work is hands-on: agents that hold memory across sessions, retrieval over data that can't leave the building, and verifiers that catch a model being confidently wrong. I maintain [Holt](https://github.com/holt-os/holt), an open-source local-first personal AI OS.
+Most of my work is hands-on: agents that hold memory across sessions, retrieval over data that can't leave the building, and verifiers that catch a model being confidently wrong. I maintain [Holt](https://github.com/holt-os/holt), an open-source local-first personal AI OS. YourStory named it one of the 30 [VibeCode30 2026 winners](https://yourstory.com/cs/uploads/Vibecode30-Report-2026-1791951345453.pdf) at TechSparks.
 
 **What I work on**
 
@@ -20,7 +20,7 @@ Most of my work is hands-on: agents that hold memory across sessions, retrieval 
 
 | Project | What it is | Status |
 |---|---|---|
-| [**Holt**](https://github.com/holt-os/holt) | Open-source personal AI OS: per-folder semantic memory, distilled facts, skills, knowledge graph, MCP server, scheduling, CLI and API | Live · v0.19 · [docs](https://productsdecoded.com/holt) |
+| [**Holt**](https://github.com/holt-os/holt) | Open-source personal AI OS: per-folder semantic memory, distilled facts, skills, knowledge graph, MCP server, scheduling, CLI and API | Live · v0.19 · [docs](https://productsdecoded.com/holt) · [VibeCode30 2026 winner](https://yourstory.com/cs/uploads/Vibecode30-Report-2026-1791951345453.pdf) |
 | [**Holt benchmarks**](https://github.com/holt-os/holt-benchmarks) | Holt's memory scores, published with every answer and grade | LongMemEval 91.2% · LoCoMo 88.2% · BEAM-1M 79.6% |
 | [**Holt Teams**](https://productsdecoded.com/holt/teams) | Governed, self-hosted shared memory for teams of AI agents | Building now · design partners wanted |
 | [**Astrika**](https://astrika.in) | AI-native Vedic astrology SaaS. Prompts, infra and UX, built solo | Live |
